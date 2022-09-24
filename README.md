@@ -6,19 +6,19 @@ Using Technologies
 
 Backend: .NET 5
 
-----Database Tools
+----Database Tools:
 
 RDBMS: Microsoft Sql Server
 NoSQL: MongoDb
 
-----Orm Tools
+----Orm Tools:
 Dapper
 EntityFrameworkCore
 
-----IOC Containers
+----IOC Containers:
 Autofac
 
-----Mapping Tools
+----Mapping Tools:
 AutoMapper
 Mapster
 TinyMapper
