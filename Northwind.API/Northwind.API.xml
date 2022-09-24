@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Northwind.API</name>
+    </assembly>
+    <members>
+        <member name="T:Northwind.API.Controllers.CategoriesController">
+            <summary>
+            Category operations
+            </summary>
+        </member>
+        <member name="M:Northwind.API.Controllers.CategoriesController.GetAll">
+            <summary>
+            Get all categories
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Northwind.API.Controllers.CategoriesController.GetById(System.Int32)">
+            <summary>
+            Get category by category id
+            </summary>
+            <param name="categoryId"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Northwind.API.Controllers.ProductsController">
+            <summary>
+            Product controller
+            </summary>
+        </member>
+        <member name="M:Northwind.API.Controllers.ProductsController.GetAll">
+            <summary>
+            Get all products
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Northwind.API.Controllers.ProductsController.GetById(System.Int32)">
+            <summary>
+            Get product by product id
+            </summary>
+            <param name="productId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
