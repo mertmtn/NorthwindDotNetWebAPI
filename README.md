@@ -4,7 +4,7 @@ This is a web api project using Northwind Db. Description will be updated
 
 Using Technologies
 
-Backend: .NET 5
+Backend: .NET 7
 
 ----Database Tools:
 
